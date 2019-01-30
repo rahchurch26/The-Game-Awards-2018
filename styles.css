@@ -1,0 +1,46 @@
+body{
+      background-image:url("https://ak8.picdn.net/shutterstock/videos/14887918/thumb/1.jpg");
+      background-position:center;
+      background-attachment:fixed;
+      background-size:1600px;
+      text-align:center;
+      font-size:50px;
+}    
+h1{
+    font-family: 'Unlock', cursive;
+    color:	#FF00FF;
+}    
+.BestActionGame{
+    font-family: 'Gamja Flower', cursive;
+    color:#FF0000;
+} 
+.BestActionAdventureGame{
+    color:#FFA500;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.BestSportsGame{
+    color:#00FF00;
+    font-family: 'Mukta', sans-serif;
+}
+.BestNarrative{
+    color:#8A2BE2;
+    
+} 
+.BestOngoingGame{
+   color:#00FFFF; 
+}   
+.GameoftheYear{
+    color:#FFD700;
+}    
+.MyWinner{
+    color:#C0C0C0;
+    font-family: 'Arimo', sans-serif;
+}
+.Winner{
+    color:#FFD700;
+    font-family: 'Bungee', cursive;
+}  
+.GameoftheYearWinner{
+    color:#B0C4DE;
+    font-family: 'Bungee', cursive;
+}   
